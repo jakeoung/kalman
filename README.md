@@ -9,13 +9,13 @@ Organimization
 
 ![Psi](fig/figPhonePsi.png)
 
-!![Pose estimation of a smart-phone](fig/figPhone15.png)
+![Theta](fig/figPhoneTheta.png)
 
-[Theta](fig/figPhoneTheta.png)
+![Pose estimation of a smart-phone](fig/figPhone15.png)
 
-![](figPhone10.png)
-![](figPhone30.png)
-![](figPhone50.png)
-![](figPhone70.png)
+![](fig/figPhone10.png)
+![](fig/figPhone30.png)
+![](fig/figPhone50.png)
+![](fig/figPhone70.png)
 
 
