@@ -11,11 +11,24 @@ Organimization
 
 ![Theta](fig/figPhoneTheta.png)
 
-![Pose estimation of a smart-phone](fig/figPhone15.png)
-
 ![](fig/figPhone10.png)
 ![](fig/figPhone30.png)
 ![](fig/figPhone50.png)
 ![](fig/figPhone70.png)
+![](fig/figPhone90.png)
+![](fig/figPhone110.png)
+![](fig/figPhone130.png)
+![](fig/figPhone150.png)
+![](fig/figPhone170.png)
+![](fig/figPhone190.png)
+![](fig/figPhone210.png)
+![](fig/figPhone230.png)
+![](fig/figPhone250.png)
+![](fig/figPhone270.png)
+
+
+
+
+
 
 
